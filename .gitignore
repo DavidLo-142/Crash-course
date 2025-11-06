@@ -16,3 +16,4 @@ dist/projekt_liste.exe
 build/projekt_liste/base_library.zip
 build/
 projekt_liste.spec
+*.pyd
