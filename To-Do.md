@@ -28,3 +28,7 @@
 23. Machine lerning programm ()
 
 24. Pydantic Base modells (Wenn überzeit)
+
+25. (Heute) Mich mit ollama beschäftigen
+26. unterschied von ollama modellen verstehen
+27. batch request...

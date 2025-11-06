@@ -50,7 +50,7 @@ def create_window():
         endfenster = Tk()
         endfenster.title("Ihre Liste")
         endfenster.geometry("130x200+300+120")
-
+        
         labelitems = Label(endfenster, text="Liste")
         labelitems.config(font=("Arial", 15))
         labelitems.grid(row=0, column=0)
