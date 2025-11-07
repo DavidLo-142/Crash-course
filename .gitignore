@@ -16,4 +16,8 @@ dist/projekt_liste.exe
 build/projekt_liste/base_library.zip
 build/
 projekt_liste.spec
-*.pyd
+llm_ollama/Lib/site-packages/pandocfilters.py
+llm_ollama/Lib/site-packages/_cffi_backend.cp312-win_amd64.pyd
+llm_ollama/Lib/site-packages/distutils-precedence.pth
+ollama_venv/
+To-Do.md

@@ -5,7 +5,13 @@ url= "http://localhost:11434/api/chat"
 
 payload = {
     "model": "llama3.2:1b",
-    "messages": [{"role": "user", "content": "Whats the capital of Germany?"}]
+    "messages":[
+    {"role": "System", "content": "You are a pirate and you also talk like one"},
+    {"role": "user", "content": "Whats the capital of Germany?"},
+    ],
+    "options": {
+        "temperature": 1
+    }
 }
 
 response = requests.post(url, json=payload, stream=True)

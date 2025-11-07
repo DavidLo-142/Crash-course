@@ -29,6 +29,16 @@
 
 24. Pydantic Base modells (Wenn überzeit)
 
-25. (Heute) Mich mit ollama beschäftigen
+25. Mich mit ollama beschäftigen
 26. unterschied von ollama modellen verstehen
+    Unterschiedliche Ollama modelle sind für unterschiedlich starke PCs gedacht mit unterschiedlichen stärken
 27. batch request...
+
+
+Quiz app
+1. Neuen folder + neues venv
+2. folder auf github
+3. client folder und server folder + venv folder
+29. FastApi (server und client )anschauen
+30. Vor und Nachteile json, text anschauen
+28. Fastapi selber schreiben 
